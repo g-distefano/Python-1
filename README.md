@@ -1,1 +1,1 @@
-All these files are files contructed by me
+I made all these projects over the school year
