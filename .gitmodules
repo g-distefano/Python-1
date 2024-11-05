@@ -1,0 +1,9 @@
+[submodule "python-1-grade-calculator"]
+	path = python-1-grade-calculator
+	url = git@github.com:g-distefano/python-1-grade-calculator.git
+[submodule "Peace-Game"]
+	path = Peace-Game
+	url = git@github.com:g-distefano/Peace-Game.git
+[submodule "coding-cat-public"]
+	path = coding-cat-public
+	url = git@github.com:g-distefano/coding-cat-public.git
